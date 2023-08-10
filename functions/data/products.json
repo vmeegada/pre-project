@@ -1,0 +1,52 @@
+[
+    
+  {
+    "id": "VGDEMO001",
+    "name": "RIDE 5 PS5",
+    "description": "Rev up your engine and get ready to hit the track with RIDE 5. ",
+    "image": "https://gameloot.in/wp-content/uploads/2023/06/RIDE-5-PS5.png",
+    "amount": 4000,
+    "currency": "INR"
+  },
+  {
+    "id": "VGDEMO002",
+    "name": "Marvels Spider-Man 2 PS5",
+    "description": "An evolution of the Spider-Man story on Play Station -5",
+    "image": "https://gameloot.in/wp-content/uploads/2023/06/Marvels-Spider-Man-2-PS5.jpg",
+    "amount": 4999,
+    "currency": "INR"
+  },
+  {
+    "id": "VGDEMO003",
+    "name": "Cricket 24 PS5",
+    "description": "ricket 24: Building the most realistic cricket video game ever! ",
+    "image": "https://gameloot.in/wp-content/uploads/2023/04/Cricket-24-PS5.jpg",
+    "amount": 4250,
+    "currency": "INR"
+  },
+  {
+    "id": " VGDEMO004",
+    "name": "God of War Ragnarok Standard Edition - PS 5",
+    "description": "Embark on a mythic journey for answers and allies before Ragnarök arrives in God of War Ragnarok on PS5.",
+    "image": "https://media.gamestop.com/i/gamestop/11206962-11206961?w=352&h=352&fmt=webp",
+    "amount": 3050,
+    "currency": "INR"
+  }
+  , {
+    "id": " FSGEAR001",
+    "name": "Sunrisers Hyderabad",
+    "description": "Men Orange and Black ACTIVE SRH Replica Jersey with Half Sleeve Johney Collar.",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/fancode/MI23MJG134/3/BonyfrnVwv-mi23mjg134_3.jpg",
+    "amount": 1150,
+    "currency": "INR"
+  }
+  
+  , {
+    "id": " FSGEAR002",
+    "name": "India",
+    "description": "Men Navy Blue Printed Hood Hoodie: Customised With Your Name By FanCode",
+    "image": "https://images.fancode.com/eyJrZXkiOiJtZWRpYS9jYXRhbG9nL3Byb2R1Y3QvY2FjaGUvYzg2NDA4M2JmNzRhZTk3MDM3ZmEyM2JjNTM0MGFlOTUvby9kL29kaW5taGQ2MDFfM18xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsImJhY2tncm91bmQiOiJ0cmFuc3BhcmVudCIsIndpZHRoIjozNTYsImhlaWdodCI6NDcwfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+    "amount": 1150,
+    "currency": "INR"
+  }
+]
